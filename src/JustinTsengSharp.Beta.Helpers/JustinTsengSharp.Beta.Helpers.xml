@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JustinTsengSharp.Beta.Helpers</name>
+    </assembly>
+    <members>
+        <member name="M:JustinTsengSharp.Beta.Helpers.DateTimeHelper.IsBetween(System.DateTime,System.DateTime,System.DateTime,System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="source"></param>
+            <param name="start">要比對的起始日期</param>
+            <param name="end">要比對的結束日期</param>
+            <param name="isCompareOnlyDate">是否只比對日期</param>
+            <returns>
+            </returns>
+        </member>
+        <member name="M:JustinTsengSharp.Beta.Helpers.StringHelper.IsNullOrWhiteSpace(System.String)">
+            <summary>
+            此方法參考至微軟 string.IsNullOrWhiteSpace(String value) 的原始碼 
+            .net framework 3.5 並沒有實作 string.IsNullOrWhiteSpace(String value) 此方法
+            </summary>
+            <param name="source"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JustinTsengSharp.Beta.Helpers.StringHelper.LeftOrEmpty(System.String,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="source"></param>
+            <param name="length"></param>
+            <returns>
+            若發生例外則回傳string.Empty
+            </returns>
+        </member>
+        <member name="M:JustinTsengSharp.Beta.Helpers.StringHelper.RightOrEmpty(System.String,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="source"></param>
+            <param name="length"></param>
+            <returns>
+            若發生例外則回傳string.Empty
+            </returns>
+        </member>
+    </members>
+</doc>

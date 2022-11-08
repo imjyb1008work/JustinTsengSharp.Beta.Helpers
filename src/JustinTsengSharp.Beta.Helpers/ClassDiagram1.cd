@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="JustinTsengSharp.Beta.Helpers.ConnectionStringHelper">
+    <Position X="7.5" Y="0.5" Width="6.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConnectionStringHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JustinTsengSharp.Beta.Helpers.ConvertHelper">
+    <Position X="0.5" Y="2.25" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAACAAAAAAAAAIAAABIAAAAAABAAAIAAAA=</HashCode>
+      <FileName>ConvertHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JustinTsengSharp.Beta.Helpers.DateTimeHelper">
+    <Position X="0.5" Y="0.5" Width="6.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBAAAAAAAAAAA=</HashCode>
+      <FileName>DateTimeHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JustinTsengSharp.Beta.Helpers.DirectoryHelper">
+    <Position X="10.5" Y="2.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>DirectoryHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JustinTsengSharp.Beta.Helpers.FileHelper">
+    <Position X="7.5" Y="2.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JustinTsengSharp.Beta.Helpers.HashHelper">
+    <Position X="0.5" Y="5" Width="6.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAiACAAIAAAgAAAAAAAAEAAAAQAAAAAAAAAyAAA=</HashCode>
+      <FileName>HashHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JustinTsengSharp.Beta.Helpers.EnumerableHelper">
+    <Position X="7.5" Y="5" Width="7" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAQAAAAAAAAAAAAAAAAAAAAAAAAAABAAIAAA=</HashCode>
+      <FileName>EnumerableHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JustinTsengSharp.Beta.Helpers.PathHelper">
+    <Position X="7.5" Y="3.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABCAAABAAAAAAA=</HashCode>
+      <FileName>PathHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JustinTsengSharp.Beta.Helpers.StringHelper">
+    <Position X="7.5" Y="6.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAgQAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>StringHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft JhengHei UI" Size="9" />
+</ClassDiagram>
